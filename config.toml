@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://hugo.teejay.blog'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+title = 'teejay.blog'
+theme = 'hugo-PaperMod'
