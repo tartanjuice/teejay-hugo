@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project366 on teejay.blog</title>
+    <link>https://hugo.teejay.blog/tags/project366/</link>
+    <description>Recent content in project366 on teejay.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2024 08:42:27 -0500</lastBuildDate>
+    <atom:link href="https://hugo.teejay.blog/tags/project366/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://hugo.teejay.blog/post/test/</link>
+      <pubDate>Wed, 24 Jan 2024 08:42:27 -0500</pubDate>
+      <guid>https://hugo.teejay.blog/post/test/</guid>
+      <description>Here is a test of a new post.
+I used hugo new post/test.md in Terminal to create the file. Then edited the markdown in VS Code.
+Now what&amp;rsquo;s left is:
+figure out how to upload/include photos figure out how to push to GitHub and/or Netlify figure out how to post remotely (from my phone or at work) </description>
+    </item>
+  </channel>
+</rss>
